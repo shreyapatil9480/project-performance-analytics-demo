@@ -46,8 +46,8 @@ To run the analysis yourself, clone this repository and install the required dep
 
 ```bash
 # clone the repository (replace with your preferred directory)
-git clone https://github.com/shreyapatil9480/project-performance-analytics.git
-cd project-performance-analytics
+git clone https://github.com/shreyapatil9480/project-performance-analytics-demo.git
+cd project-performance-analytics-demo
 
 # create a virtual environment (optional but recommended)
 python -m venv .venv
